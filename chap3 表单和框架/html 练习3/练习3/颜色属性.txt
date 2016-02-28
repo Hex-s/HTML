@@ -1,0 +1,3 @@
+bgColor=#ff9900
+borderColor=#ffffcc bgColor=#ffffcc
+bgColor=#ffcc00

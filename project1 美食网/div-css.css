@@ -1,0 +1,173 @@
+@charset "utf-8";
+/* CSS Document */
+
+div {
+	margin:0px auto;
+	width:900px;
+}
+body {
+	background:url(top_files/ms_index_bg.gif);
+	margin:0px;
+}
+table {
+	width:100%;
+}
+a {
+	text-decoration:none;
+}
+.title {
+	width:900px;
+}
+.div-title1 {
+	width:233px;
+	height:115px;
+	background-color:#CCC;
+	float:left;
+	background:url(top_files/ms_top_001.gif);
+}
+.div-title2 {
+	width:346px;
+	height:80px;
+	background-color:#CCC;
+	float:left;
+	background:url(top_files/ms_top_002.gif);
+}
+.div-title3 {
+	width:321px;
+	height:80px;
+	background-color:#CCC;
+	float:left;
+	background:url(top_files/ms_top_003.gif);
+}
+.div-title4 {
+	width:610px;
+	height:35px;
+	background-color:#CCC;
+	float:left;
+	background:url(top_files/ms_top_005.gif);
+}
+.div-title5 {
+	width:57px;
+	height:35px;
+	background-color:#CCC;
+	float:left;
+	background:url(top_files/ms_top_004.gif);
+}
+.td-nav {
+	border-right:solid 1px #FFF;
+}
+.tr-nav {
+	color:#FFF;
+	font-size:13px;
+	line-height:15px;
+}
+.body {
+	width:900px;
+	height:500px;
+}
+.leftbody {
+	width:30%;
+	height:100%;
+	float:left;
+	background-color:#66CC00;
+	text-align:center;
+}
+.rightbody {
+	width:70%;
+	height:100%;
+	float:left;
+	background-color:#66CC00;
+}
+.left-list {
+	width:95%;
+	margin-top:10px;
+}
+.li-info {
+	color:#990;
+	font-size:12px;
+	text-align:left;
+}
+.div-restaurant {
+	width:95%;
+	margin-top:10px;
+}
+.li-restaurant {
+	color:#030;
+	font-size:12px;
+	text-align:left;
+}
+.li-class {
+	color:#060;
+	font-size:12px;
+	text-align:left;
+}
+.li-private {
+	color:#CC6633;
+	font-size:12px;
+}
+.left-title {
+	width:100%;
+}
+.div-foodculture-li {
+	width:100%;
+	background:#FEF8C6;
+}
+.li-foodculture {
+	color:#999900;
+	font-size:12px;
+	text-align:left;
+	padding-top:10px;
+}
+.link {
+	color:#0099FF;
+	list-style:none;
+	background-color:#EEFFFF;
+	text-align:left;
+	padding-left:20px;
+	padding-top:10px;
+}
+.a-link {
+	color:#0099FF;
+}
+.right-list {
+	width:98%;
+}
+.li-foodinfo {
+	color:#CC6600;
+	font-size:12px;
+}
+.li-foodtopic {
+	color:#FF9933;
+	font-size:12px;
+}
+.li-homecooking {
+	color:#CC9933;
+	font-size:13px;
+	margin-left:20px;
+}
+.waterword {
+	color:#999933;
+	font-size:13px;
+}
+.title-nannv {
+	font-size:14px;
+	color:#FFFFFF
+}
+.foodnannv-title {
+	color:#660000;
+	font-weight:bold;
+}
+.foodnannv {
+	color:#CCCC00;
+	font-size:14px;
+}
+.taste-title {
+	font-weight:bold;
+	color:#660000;
+}
+.taste {
+	color:#CC9933;
+	font-size:13px;
+}
+.div-footer{
+	width:500px;}

@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.p {
+	color:#F00;
+	font-weight:bold;
+	text-align:center;
+}
+.p1 {
+	color:#000;
+}
+.input {
+	color:#999;
+	border:solid1 px;
+	border-color:#090;
+}
+a {
+	color:#00F;
+	text-decoration:none;
+}
+a:hover {
+	color:#F00;
+	text-decoration:underline;
+}
+a:active {
+	color:#0F0;
+}
+
+a:visited{
+	color:#CCC;
+	text-decoration:none;}
+.pic1 {
+	background:url(images/button-tijiao.gif);
+	border:none;
+}
+.pic2 {
+	background:url(images/button-chongtian.gif);
+	border:none;
+}
+.pic3 {
+	background-image:url(images/button-tijiao.gif);
+}
+.pic4 {
+	background-image:url(images/button-chongtian.gif);
+}

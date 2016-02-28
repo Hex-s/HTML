@@ -1,0 +1,219 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0px;
+}
+.div {
+	margin:0px auto;
+	width:961px;
+}
+.table-title {
+	width:961px;
+}
+.div-title {
+	height:32px;
+}
+.title-reg {
+	font-size:14px;
+	text-align:right;
+	color:#000;
+}
+a:hover {
+	color:#F00;
+	text-decoration:underline;
+}
+.a1 {
+	color:#000;
+}
+.a2 {
+	text-decoration:none;
+	color:#000;
+}
+.div-nav {
+}
+.div-navtop {
+	height:35px;
+	background:url(images/table_1.gif);
+}
+.div-navmiddle {
+	height:60px;
+	background:url(images/slice_1.gif)
+}
+.table-nav {
+	width:650px;
+	font-size:12px;
+	color:#FFF;
+}
+.a-nav {
+	font-size:12px;
+	color:#FFF;
+	text-decoration:none;
+}
+.nav-search {
+	margin-left:20px;
+	margin-top:3px;
+}
+.nav-divtable {
+	margin-left:40px;
+	margin-top:3px;
+}
+.adv-title {
+	height:40px;
+	background:url(images/4zhounian.jpg) no-repeat;
+	margin-left:5px;
+}
+.adv-left {
+	float:left;
+}
+.a-announcement {
+	color:#00F;
+	text-decoration:none;
+	font-size:12px;
+}
+.adv-mid1 {
+	float:left;
+	background:url(images/adv/adv_2.jpg) no-repeat;
+	width:360px;
+	height:190px;
+	margin-left:15px;
+}
+.adv-mid2 {
+	float:left;
+	width:220px;
+	margin-left:30px;
+}
+.adv-right {
+	float:right;
+	height:191px;
+	width:78px;
+	background:url(images/left_daohang1.jpg);
+}
+.div-adv {
+	margin-top:10px;
+}
+.a-marquee {
+	color:#00F;
+	font-size:12px;
+	text-decoration:none;
+}
+.market {
+	height:336;
+	margin-top:15px;
+	float:left;
+}
+.market-left {
+	background:url(images/table_back.gif) no-repeat;
+	width:767px;
+	height:286px;
+	float:left;
+}
+.market-left1 {
+	height:286px;
+	width:255px;
+	float:left;
+}
+.market-left2 {
+	height:286px;
+	width:250px;
+	float:left;
+	background:no-repeat;
+}
+.market-left3 {
+	height:286px;
+	width:250px;
+	float:left;
+	background:no-repeat;
+}
+.market-a {
+	color:#00F;
+	font-size:12px;
+	text-decoration:none;
+}
+.market-table {
+	margin-top:25px;
+	margin-left:5px;
+	width:240px;
+}
+.market-img {
+	margin-top:30px;
+	margin-left:5px;
+}
+.market-img {
+	margin-top:30px;
+	margin-left:5px;
+}
+.market-right {
+	width:180px;
+	height:283px;
+	float:left;
+	background:url(images/portal_bg.jpg) no-repeat;
+	margin-left:5px;
+}
+.market-rightt1 {
+	width:163px;
+	border:solid #F00 1px;
+}
+.market-tabrecharge {
+	margin-left:10px;
+	margin-top:10px;
+}
+.class {
+	width:951px;
+	margin-left:5px;
+	margin-top:10px;
+	background:url(images/type_back.jpg) no-repeat;
+}
+.class-contain1 {
+	width:310px;
+	margin-top:50px;
+	margin-left:10px;
+	float:left;
+}
+.class-contain2 {
+	width:310px;
+	margin-top:50px;
+	float:left;
+}
+.class-contain3 {
+	width:310px;
+	margin-top:50px;
+	float:left;
+}
+.class-table {
+	width:310px;
+	font-size:14px;
+	color:#00F;
+	font-weight:bold;
+	border-right:dashed #F60 2px;
+}
+.class-tableright {
+	width:310px;
+	font-size:14px;
+	color:#00F;
+	font-weight:bold;
+}
+.class-tablecontain {
+	font-size:12px;
+	border-right:solid #00F 1px;
+}
+.class-tablebg {
+	background-color:#EBEFFF;
+}
+.class-hr {
+	float:left;
+}
+.class-a1{
+	color:#00F;
+	text-decoration:none;
+	}
+	
+.footer {
+	text-align:center;
+	font-size:12px;
+}
+.footer-a {
+	color:#00F;
+}
+.footer-p{
+	line-height:5px;}

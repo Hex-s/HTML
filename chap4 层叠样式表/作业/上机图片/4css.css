@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.td1 {
+	background-color:#EFEFFF;
+	font-weight:bold;
+	text-align:center;
+	color:#F39;
+	font-size:20px;
+}
+.td2 {
+	background-color:#9CE3FF;
+	text-align:center;
+}
+.td3 {
+	background-color:#8482FF;
+	color:#F3F;
+}
+a {
+	text-decoration:none;
+	color:#F39;
+}
+a:hover {
+	text-decoration:underline;
+	color:#00F;
+}
+a.visited {
+	color:#CCC;
+}

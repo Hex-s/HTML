@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0px;
+}
+.div {
+	margin:0px auto;
+	height:900px;
+	background-color:#CCC;
+}
+.div-left {
+	width:120px;
+	height:600px;
+	background:url(images/bi-ad.gif);
+	float:left;
+	margin-top:100px;
+	margin-left:50px;
+}
+.div-right {
+	width:120px;
+	height:600px;
+	background:url(images/bi-ad.gif);
+	margin-top:100px;
+	margin-right:50px;
+	float:right;
+}
+.left-contain {
+	width:13px;
+	height:13px;
+	background:url(images/close.gif) no-repeat;
+}
+.right-contain {
+	width:13px;
+	height:13px;
+	background:url(images/close.gif) no-repeat;
+	float:right;
+}
